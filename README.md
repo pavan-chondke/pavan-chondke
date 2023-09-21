@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pavan-chondke
 - 👀 I’m interested in Backend
-- 🌱 I’m currently learning Advance
+- 🌱 I’m currently learning Advance Java
   
 
 <!---
